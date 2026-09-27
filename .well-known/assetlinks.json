@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.agentdeck.companion",
+      "sha256_cert_fingerprints": [
+        "5A:C7:7E:C6:F9:3F:9F:28:A9:41:A1:E1:46:95:C9:B2:DA:C1:24:E7:43:EC:8F:82:8B:C2:EE:3C:77:5B:8E:69"
+      ]
+    }
+  }
+]
